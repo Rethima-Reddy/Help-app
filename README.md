@@ -3,5 +3,5 @@
 ## group-members
 ### Akhitha Tumula
 ### Rohan Bhandari 
-### Rethima Reddy Polam
+### Rethimareddy Polam
 ### Mahender Reddy Surkanti
