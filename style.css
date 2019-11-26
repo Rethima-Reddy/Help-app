@@ -40,6 +40,14 @@ a {
     direction: flex-end;
     background-color:#5CDB95;    
 }
+.co {
+    display: flex;
+    color:#05356B;
+    align-content: center;
+    justify-content: center;
+    direction: flex-end;
+    background-color:#5CDB95;    
+}
 .per {
     display: flex;
     align-content: center;
