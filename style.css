@@ -37,6 +37,7 @@
     display: grid;
     align-content: center;
     justify-content: center;
+    background-color: white;
     color: black;
 }
 .f1
@@ -46,12 +47,9 @@
     justify-content: space-evenly;
     align-content: space-around; 
 }
-body
-{
-    background-color:#BEEBEB;
-}
+
 a {
-    color: #EDF5E1;
+    color: black;
     text-decoration: none;
     background-color: transparent;
 }
@@ -84,6 +82,11 @@ a {
     
     align-content: center;
     justify-content: center;
+}
+.phi
+{
+    color: black;
+    text-emphasis-color: black;
 }
 .color1
 {
