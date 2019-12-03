@@ -140,6 +140,7 @@ a {
     text-align: center;
   }
  .navbar{
+     padding-top:2em;
      text-align: center;
  }
   
@@ -167,4 +168,26 @@ a {
     background-color: black;
     color:white;
     padding: 2em;
+}
+ #pricing{
+    background-color: black;
+    color:white;
+} 
+/* .table1{
+    
+    color:black;
+
+} */
+.t1{
+    text-align: center;
+    padding: 2em;
+}
+.fe{
+    background-color:black;
+    color:white;
+    
+    padding: 2em;
+}
+.h{
+    text-align: center;
 }
