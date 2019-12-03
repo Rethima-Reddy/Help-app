@@ -10,9 +10,20 @@
 .draw
 {
     display: flex;
-    align-content: center;
+    /* align-content: center; */
     justify-content: space-between;
     color: black;
+    padding-left: 6em;
+    
+}
+.draw1
+{
+    display: flex;
+    /* align-content: center; */
+    justify-content: space-between;
+    color: black;
+    padding-left: 6em;
+    
 }
 .dw
 {
@@ -23,14 +34,29 @@
 }
 .dep {
     display: grid;
-    align-content: center;
-    justify-content: center;
+    /* align-content: center; */
+    /* justify-content: center; */
+    padding-left: 2em;
+    text-align:center;
+    
 }
 .de {
     display: grid;
-    align-content: center;
-    justify-content: space-between;
+    /* align-content: center; */
+    justify-content:center;
     color: black;
+   border: 0.5px solid rgb(143, 138, 138);
+   border-radius: 2em;
+   padding: 1em;
+}
+
+.dee {
+   
+    color: black;
+   border: 0.5px solid rgb(143, 138, 138);
+   border-radius: 2em;
+   padding: 1em;
+   text-align:center;
 }
 .d
 {
@@ -96,13 +122,13 @@ a {
 }
 .colored-section img{   
     display: grid; 
-    border: 2px solid #05356B;
-    border-radius: 15%;    
+    /* border: 2px solid #05356B;
+    border-radius: 15%;     */
     align-content: center;
     justify-content: center;
     height: auto;
     width: 25%;
-    color: #05356B;
+    /* color: #05356B; */
   }
   
   .carousel-text {
@@ -121,8 +147,21 @@ a {
       background-color:white;
   }
   .r1{
+      /* padding:1em; */
+      text-align: center;
+      padding-top:2px;
+  }
+  h5{
       text-align: center;
   }
-  .h2{
+  h2{
       text-align: center;
   }
+  body {
+    overflow-x:hidden;
+}
+.rhn{
+    background-color: black;
+    color:white;
+    padding: 2em;
+}
