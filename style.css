@@ -7,6 +7,31 @@
     justify-content: center;
     color: #EDF5E1;
 }
+.draw
+{
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+    color: #EDF5E1;
+}
+.dw
+{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    color: #EDF5E1;
+}
+.dep {
+    display: grid;
+    align-content: center;
+    justify-content: center;
+}
+.de {
+    display: grid;
+    align-content: center;
+    justify-content: space-between;
+    color: #EDF5E1;
+}
 .d
 {
     display: grid;
@@ -14,7 +39,6 @@
     justify-content: center;
     color: #EDF5E1;
 }
-
 .f1
 {
     display: flex;
