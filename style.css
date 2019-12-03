@@ -1,25 +1,25 @@
 .d1
 {
     display: grid;
-    border: 2px solid #05356B;
-    border-radius: 15px;
+    /* border: 2px solid #05356B;
+    border-radius: 15px; */
     align-content: center;
     justify-content: center;
-    color: #EDF5E1;
+    color: black;
 }
 .draw
 {
     display: flex;
     align-content: center;
     justify-content: space-between;
-    color: #EDF5E1;
+    color: black;
 }
 .dw
 {
     display: flex;
     align-content: center;
     justify-content: center;
-    color: #EDF5E1;
+    color: black;
 }
 .dep {
     display: grid;
@@ -30,14 +30,14 @@
     display: grid;
     align-content: center;
     justify-content: space-between;
-    color: #EDF5E1;
+    color: black;
 }
 .d
 {
     display: grid;
     align-content: center;
     justify-content: center;
-    color: #EDF5E1;
+    color: black;
 }
 .f1
 {
@@ -119,4 +119,10 @@ a {
       padding-right: 0em;
       padding-top: 0em;
       background-color:white;
+  }
+  .r1{
+      text-align: center;
+  }
+  .h2{
+      text-align: center;
   }
