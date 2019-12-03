@@ -24,7 +24,7 @@
 }
 body
 {
-    background-color: #5CDB95;
+    background-color:#BEEBEB;
 }
 a {
     color: #EDF5E1;
@@ -56,9 +56,8 @@ a {
 .per img{
     display: flex;
     width: 100%;
-    height: auto;
-    border: 4px solid #05356B;
-    border-radius: 4em;
+    height: 300%;
+    
     align-content: center;
     justify-content: center;
 }
@@ -87,7 +86,13 @@ a {
     line-height: 1.5;
     text-align: center;
   }
+ .navbar{
+     text-align: center;
+ }
   
-  
-  
-  
+  .rd{
+      padding-left: 0em;
+      padding-right: 0em;
+      padding-top: 0em;
+      background-color:white;
+  }
