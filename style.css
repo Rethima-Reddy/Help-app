@@ -90,11 +90,12 @@ a {
 }
 .co {
     display: flex;
-    color:darkseagreen;
+    color:black;
     align-content: center;
     justify-content: center;
     direction: flex-end;
-    background-color:#5CDB95;    
+    background-color:white; 
+    padding: 2em;   
 }
 .per {
     display: flex;
